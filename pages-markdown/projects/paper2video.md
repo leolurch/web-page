@@ -3,21 +3,21 @@ title: 'Paper to Video'
 date: '2023-08-13'
 ---
 
-# paper 2 video
+# Paper 2 Video
 
-## abstract
-Trying to create a pipeline with an [arxiv](https://arxiv.org/) paper id as an input and a 3-5min video that explains the core findings / conceps the paper covers.
+## Abstract
+We are attempting to create a pipeline that takes an [arxiv](https://arxiv.org/) paper id as input and produces a 3-5 minute video explaining the key findings and concepts covered in the paper.
 
-## results
-- [first generated video](https://drive.google.com/file/d/187RRSpiGjapQKbFUpF9pGO8YjjTTZsS3/view) - too long, seamingly random stock images, hot af voice
+## Results
+- [First generated video](https://drive.google.com/file/d/187RRSpiGjapQKbFUpF9pGO8YjjTTZsS3/view) - The video is too long, contains seemingly random stock images, and features an attractive voice.
 
-## build space
-we are part of the current build space batch (s23). which instantly got us access to 100k in elevenlabs credits - can recommend 
+## Build Space
+We are part of the current Build Space batch (S23), which immediately granted us access to 100k in ElevenLabs credits - highly recommended.
 
-## techstack
-- python 
-- langchain 
-- elevenlabs / google text to speach (for dev testing)
-- moviepy - combining the content pieces
-- manim - animation generation à la 3b1b
-- pexels - free stock video library
+## Tech Stack
+- Python 
+- LangChain 
+- ElevenLabs / Google Text to Speech (for development testing)
+- MoviePy - for content combination
+- Manim - for generating animations à la 3b1b
+- Pexels - free stock video library

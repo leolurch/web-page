@@ -1,0 +1,4 @@
+Add propper casing, fix grammer and spelling mistakes. Keep the style, but change the specific wording if there are duplicates to close to each other. 
+Generally there should be no need to change the wording though.
+Never add . to headlines.
+Don't change the wording of the headlines.

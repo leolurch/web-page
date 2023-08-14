@@ -63,9 +63,9 @@ export default function MyMarkdownPage(props: PageProps) {
   //   }
   // }, []);
 
-  const BlogPostList = () => <PageList pages={props.posts} title="blog" />;
+  const BlogPostList = () => <PageList pages={props.posts} title="Blog" />;
 
-  const ProjectList = () => <PageList pages={props.projects} title="work" />;
+  const ProjectList = () => <PageList pages={props.projects} title="Work" />;
 
   const components: Record<string, () => JSX.Element> = {
     BlogPostList,
