@@ -11,8 +11,8 @@ title: 'Leo Grützner'
 ## Me in a few lines
 Full-stack web and machine learning developer based in Berlin / the world.
 - CS student - IT systems engineering
-- Building web apps
-- Creating AI apps
+- Building web apps - Better looking and functioning than this one
+- Creating AI apps - Getting into open source models
 - [Part of a TV show](https://www.kika.de/speed/speeed-100)
 - [I have a YouTube channel](https://youtube.com/c/baubumms)
 - [Books I read](/books)
