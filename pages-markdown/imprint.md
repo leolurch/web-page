@@ -1,19 +1,19 @@
 ---
-title: 'impressum'
+title: 'imprint'
 ---
 
-Impressum
+# imprint
 
-Leo Grützner
+leo grützner
 
-Motzstr. 27
-10777 Berlin
-Deutschland
+motzstr. 27
+10777 berlin
+germany
 
-Telefon: 0178 268 0178
+phone: 0178 268 0178
 
-Mail: leo@gee.berlin
+mail: leo@gee.berlin
 
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/. Wir sind bereit, an einem außergerichtlichen Schlichtungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen. Zuständig ist die Universalschlichtungsstelle des Bundes am Zentrum für Schlichtung e.V., Straßburger Straße 8, 77694 Kehl am Rhein, www.verbraucher-schlichter.de.
+the european commission provides a platform for online dispute resolution (os), which you can find here https://ec.europa.eu/consumers/odr/. we are ready to participate in an out-of-court arbitration procedure before a consumer arbitration board. the universal arbitration board of the federation at the center for arbitration e.v., straßburger straße 8, 77694 kehl am rhein, www.verbraucher-schlichter.de is responsible.
 
-Impressum erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit FÖHLISCH Rechtsanwälte.
+imprint created with the trusted shops legal text generator in cooperation with föhlisch lawyers.

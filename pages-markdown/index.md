@@ -2,28 +2,28 @@
 title: 'leo grützner'
 ---
 
-# hey there, i am leo
+# hey there, i am leo.
 
 ![Leo Grützner](/res/me.jpg)
 
 
 
-## me in a few lines
+## me in a few lines.
 fullstack web and machine learning developer based in berlin / the world.
 - cs student - it systems engineering
 - building web apps
-- building ai apps
+- creating ai apps
 - [part of a tv show](https://www.kika.de/speed/speeed-100)
 - [have a youtube channel](https://youtube.com/c/baubumms)
 - [books i read](/books)
 
 
-# ProjectList 
+# ProjectList
 
 # BlogPostList
 
-## work with me
-if you think about realising a web app or ai project reach out to me. i'm always open for a good chat. just reach out to me on one of the linked socials
+## work with me.
+if you have a web app or ai project in mind, reach out to me. i'm always open for a good chat. just contact me on one of the linked socials.
 
 
 ## socials
@@ -35,4 +35,5 @@ if you think about realising a web app or ai project reach out to me. i'm always
 - [Instagram](https://www.instagram.com/leolruchig/)
 - [Twitter](https://twitter.com/leolurch)
 - [Telegram](https://t.me/toleoo)
+
 
